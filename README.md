@@ -1,6 +1,6 @@
 ---
 page_type: sample
-name: "HTML sample for AWS"
+name: "HTML Web App"
 description: "This is a simple HTML web app that you can deploy on AWS."
 languages:
 - javascript

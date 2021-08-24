@@ -1,7 +1,7 @@
 ---
 page_type: sample
 name: "HTML sample for AWS"
-description: "This is a simple HTML/CSS/JS web app that you can deploy to AWS using Git."
+description: "This is a simple HTML web app that you can deploy on AWS."
 languages:
 - javascript
 - html
